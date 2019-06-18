@@ -1,1 +1,2 @@
 name: test1-alpha-guest-modified
+nginx.server.name: alpha.test1.com

@@ -1,2 +1,3 @@
 application.name: test1-application
 name: test1-guest
+nginx.server.name: test1.com
